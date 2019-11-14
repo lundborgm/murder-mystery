@@ -1,0 +1,21 @@
+SELECT * from crime_reports where crime_type = 'Murder';
+
+SELECT * from persons where name = "Anna Unwin";
+
+SELECT * from interviews where person_id = 412;
+
+SELECT * from persons where hair_color = 'Blue' AND age BETWEEN 25 AND 35;
+
+SELECT * from persons INNER JOIN events on persons.id = events.person_id WHERE hair_color = 'Blue' AND event_type = 'Stand up';
+
+SELECT * from interviews WHERE person_id = 39;
+
+SELECT * from interviews WHERE person_id = 180;
+
+SELECT * from bookings WHERE room = 30;
+
+SELECT booking_id, COUNT(*) from restaurant WHERE meal = 'Breakfast' GROUP BY booking_id;
+
+SELECT * from bookings where id = 212;
+
+SELECT * from persons INNER JOIN interviews on persons.id = interviews.person_id WHERE person_id = 91;
