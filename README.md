@@ -12,10 +12,10 @@ Your mystery must solvable by using the following:
 - INNER OR OUTER JOINS
 
 
-* When you're done, go to the solutions map and correct your answers. 
+When you're done, go to the solutions map and correct your answers. 
 
 
-* Good luck!
+Good luck!
 
 ## Authors
 
