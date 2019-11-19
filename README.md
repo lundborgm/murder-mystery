@@ -1,6 +1,6 @@
 # murder-mystery
 
-It's been a murder on SQL ferry 9/8/2019, and we really need you help to solve it. 
+It's been a murder on SQL ferry 9/8/2019, and we really need your help to solve it. 
 
 * Download murder.db 
 * Start with the tabel crime report.
